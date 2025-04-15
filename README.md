@@ -1,7 +1,7 @@
 # ADDONS para World of Warcraft
 Recopilación de Addons para World of Warcraft
 
-![VPSPACK](https://github.com/powermx/vpspack/raw/master/vpspack.png)
+![World of Warcraft Addons](https://raw.githubusercontent.com/powermx/addons/refs/heads/main/img/wow_addons.png)
 
 
 ## Classic
